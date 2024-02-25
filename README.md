@@ -1,6 +1,7 @@
 # **Snake Game**
 This is a basic snake game developed using HTML(HTML5 Canvas), CSS and JavaScript. 
 It can run on desktop devices and laptops.
+For demo, [click here](https://snake-game-d4e40.web.app/)
 
 ## Getting started
 **Clone repository from git**
